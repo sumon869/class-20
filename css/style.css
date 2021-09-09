@@ -1,0 +1,23 @@
+.navbar-brand img{
+    width: 67px;
+}
+.carousel-item img{
+    height: 550px;
+}
+.bread-item{
+    background-color: #e9ecef !important;
+}
+.accordion-item h5{
+    color: #1d8afe;
+}
+.card-header a:hover{
+    text-decoration: underline !important;
+}
+footer{
+    color: #fff;
+    background-color: #17a2b8 !important;
+    padding: 30px 0;
+}
+footer p{
+    margin-bottom: 0;
+}
